@@ -5,6 +5,7 @@
   "description": "for generate project",
   "main": "index.js",
   "scripts": {
+      "start": "node server.js",
     "test": "start",
     "dev": "nodemon server.js"
   },
